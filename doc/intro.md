@@ -1,3 +1,3 @@
 # Introduction to guess-colors
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+This is CLI app that can be used to practice blindfold chessboard visualisation.
